@@ -1,2 +1,2 @@
 # testForPublic
-a repository of wow
+a repository of test
